@@ -15,3 +15,10 @@ Check it out [here](https://medium.com/analytics-vidhya/create-your-own-dataset-
 
 Training is done using YOLOv4 Darknet on Google Colab. The entire training process is attached [here](https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/Taxi_detector_using_yolov4.ipynb).
 
+![gif][code]
+
+[code]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/code.gif
+
+
+
+
