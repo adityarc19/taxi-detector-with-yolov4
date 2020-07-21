@@ -8,7 +8,7 @@ This is a taxi detector project that identifies taxis in real time environment.
 
 ## **Dataset prep**
 
-I have written an extensive article on Medium on how to create your own custom dataset. Not only that, I have also explained in it how to label the dataset in YOLOv4 format. 
+I've downloaded 200 HD images of taxis from the Open Images Dataset. There is an extensive article that I've put up on Medium regarding steps on how to create your own custom dataset. Not only that, I have also explained in it how to label the dataset in YOLOv4 format. 
 Check it out [here](https://medium.com/analytics-vidhya/create-your-own-dataset-for-yolov4-object-detection-in-5-minutes-fdc988231088)!
 
 ## **Training**
