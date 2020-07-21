@@ -1,6 +1,6 @@
 # Taxi detector with YOLOv4 and Darknet !
 
-This is a taxi detector project that identifies taxis in real time environment. 
+This is a taxi detector project that identifies taxis in a given image. 
 
 ![taxi][logo]
 
