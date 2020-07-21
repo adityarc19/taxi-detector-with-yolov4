@@ -19,6 +19,27 @@ Training is done using YOLOv4 Darknet on Google Colab. The entire training proce
 
 [code]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/code.gif
 
+## **Output**
 
+After we complete our object detection process, we get a very decent detection system of taxis just by training with the pre-trained weights of YOLOv4.
+Some sample output images are:
+
+1.
+
+![ot][oti]
+
+[oti]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/Screenshot%202020-07-21%20at%209.22.46%20PM.png
+
+2.
+
+![det][otiy]
+
+[otiy]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/Screenshot%202020-07-21%20at%209.23.01%20PM.png
+
+3.
+
+![d][oi]
+
+[oi]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/Screenshot%202020-07-21%20at%209.23.14%20PM.png
 
 
