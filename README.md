@@ -7,6 +7,7 @@
 ## This is a taxi detector project that identifies taxis in a given image.
 
 A big shoutout and thanks to @theAIGuysCode who have made an amazing toolkit for labelling images in YOLOv4 format. This project uses their toolkit.
+
 **Code and Resources used:**
 
 https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial
