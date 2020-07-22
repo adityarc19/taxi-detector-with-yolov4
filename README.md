@@ -1,5 +1,9 @@
 # Taxi detector with YOLOv4 and Darknet !
 
+![taxi][logo]
+
+[logo]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/taxi.jpg
+
 ## This is a taxi detector project that identifies taxis in a given image.
 
 A big shoutout and thanks to @theAIGuysCode who have made an amazing toolkit for labelling images in YOLOv4 format. This project uses their toolkit.
@@ -9,11 +13,7 @@ https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial
 
 https://github.com/theAIGuysCode/OIDv4_ToolKit
  
-
-![taxi][logo]
-
-[logo]: https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/sample_images/taxi.jpg
-
+ 
 ## **Dataset prep**
 
 I've downloaded 200 HD images of taxis from the Open Images Dataset. There is an extensive article that I've put up on Medium regarding steps on how to create your own custom dataset. Not only that, I have also explained in it how to label the dataset in YOLOv4 format. 
