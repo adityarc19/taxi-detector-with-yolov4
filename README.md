@@ -14,7 +14,12 @@ https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial
 
 https://github.com/theAIGuysCode/OIDv4_ToolKit
  
- 
+## My intuition behind making this project
+
+I always have wanted an app on my phone wherein I open my camera and pan it out on the streets, and it detects taxis/cabs for me ! I know its a little silly and probably cab services already do have a system of locating the nearest cabs in your area. However, I havent come across a system which could be called a "taxi scanner". I feel like it would be really cool to just be able to pull out the camera on my phone and have it detect taxis around me just like a bar code scanner would scan bar codes. 
+This is why I thought of making an object detector that would do the same using the current state of the art object detection technology, i.e., YOLOv4. 
+In the future, I hope to turn this project into a mobile app like the way I mentioned above. 
+
 ## **Dataset prep**
 
 I've downloaded 200 HD images of taxis from the Open Images Dataset. There is an extensive article that I've put up on Medium regarding steps on how to create your own custom dataset. Not only that, I have also explained in it how to label the dataset in YOLOv4 format. 
