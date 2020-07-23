@@ -55,7 +55,7 @@ Check it out [here](https://medium.com/analytics-vidhya/create-your-own-dataset-
 Before starting the training process, download the pre-trained weights from:
 
 ```
-!wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137
+https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.conv.137
 ```
 
 Training is done using YOLOv4 Darknet on Google Colab. There are a lot of files that you need for training. All those files are attached [here](https://github.com/adityarc19/taxi-detector-with-yolov4/tree/master/yolov4). However, if you want to train on your own custom dataset, you need to make a lot of changes to these files. All of it explained in the actual .pynb file [here](https://github.com/adityarc19/taxi-detector-with-yolov4/blob/master/Taxi_detector_using_yolov4.ipynb). 
