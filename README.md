@@ -20,6 +20,31 @@ I always have wanted an app on my phone wherein I open my camera and pan it out 
 This is why I thought of making an object detector that would do the same using the current state of the art object detection technology, i.e., YOLOv4. 
 In the future, I hope to turn this project into a mobile app like the way I mentioned above. 
 
+## Initial Setup
+
+Execute the code snippets below to setup the requirements for this task.
+
+```
+# clone darknet repo
+!git clone https://github.com/AlexeyAB/darknet
+```
+
+```
+
+# change makefile to have GPU and OPENCV enabled
+%cd darknet
+!sed -i 's/OPENCV=0/OPENCV=1/' Makefile
+!sed -i 's/GPU=0/GPU=1/' Makefile
+!sed -i 's/CUDNN=0/CUDNN=1/' Makefile
+!sed -i 's/CUDNN_HALF=0/CUDNN_HALF=1/' Makefile
+```
+
+```
+# make darknet (builds darknet so that you can then use the darknet executable file to run or train object detectors)
+!make
+```
+
+
 ## **Dataset prep**
 
 I've downloaded 200 HD images of taxis from the Open Images Dataset. There is an extensive article that I've put up on Medium regarding steps on how to create your own custom dataset. Not only that, I have also explained in it how to label the dataset in YOLOv4 format. 
