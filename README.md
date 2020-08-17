@@ -18,7 +18,7 @@ https://github.com/theAIGuysCode/OIDv4_ToolKit
 
 I always have wanted an app on my phone wherein I open my camera and pan it out on the streets, and it detects taxis/cabs for me ! I know its a little silly and probably cab services already do have a system of locating the nearest cabs in your area. However, I havent come across a system which could be called a "taxi scanner". I feel like it would be really cool to just be able to pull out the camera on my phone and have it detect taxis around me just like a bar code scanner would scan bar codes. 
 This is why I thought of making an object detector that would do the same using the current state of the art object detection technology, i.e., YOLOv4. 
-In the future, I hope to turn this project into a mobile app like the way I mentioned above. 
+In the future, I hope to turn this project into a mobile app the way I mentioned above. 
 
 ## Initial Setup
 
